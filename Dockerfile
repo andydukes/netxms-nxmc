@@ -1,4 +1,4 @@
-# Dockerfile for building NetXMS Console
+# Dockerfile for building NetXMS Console 3.8.267
 
 FROM debian:buster
 MAINTAINER Andrew Dukes <andymdukes@icloud.com>
