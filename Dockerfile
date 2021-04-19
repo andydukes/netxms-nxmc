@@ -4,8 +4,8 @@ FROM debian:buster
 MAINTAINER Andrew Dukes <andymdukes@icloud.com>
 
 ENV MAJOR=3
-ENV MINOR=3
-ENV RELEASE=314
+ENV MINOR=8
+ENV RELEASE=267
 
 ENV VERSION=${MAJOR}.${MINOR}.${RELEASE}
 
